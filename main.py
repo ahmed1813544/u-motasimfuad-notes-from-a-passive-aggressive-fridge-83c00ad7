@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: MIT
 """Passive-aggressive fridge note writer.
 
 Writes one single-line note from a smart fridge to its owner into
